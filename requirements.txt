@@ -1,0 +1,1 @@
+# Empty intentionally. This file is required so Heroku detects a Python app.
